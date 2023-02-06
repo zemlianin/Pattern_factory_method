@@ -10,7 +10,7 @@ public class Sculptor extends Artist{
      * @return Скульптура
      */
     @Override
-    Art Create() {
+    Art create() {
         return new Sculpture();
     }
 }

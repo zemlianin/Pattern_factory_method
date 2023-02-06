@@ -12,5 +12,5 @@ public abstract class Artist{
      * Фабричный метод.
      * @return произведение искусства
      */
-    abstract Art Create();
+    abstract Art create();
 }

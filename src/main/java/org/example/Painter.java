@@ -7,7 +7,7 @@ public class Painter extends Artist {
     }
 
     @Override
-    Art Create() {
+    Art create() {
         return new Picture();
     }
 }
